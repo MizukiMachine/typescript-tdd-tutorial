@@ -1,6 +1,6 @@
 # TypeScript Jest Tutorial
 
-このリポジトリは、TypeScriptとJestを使ったテスト開発の基本を学ぶためのサンプルコードを提供します。
+TypeScriptとJestを使ったテスト開発の目的です。
 Zenn記事「[TypeScript/ハンズオン]テスト駆動開発(TDD)入門 第2回：Jestではじめるテスト開発」のサンプルコードです。
 
 ## 概要
